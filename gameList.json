@@ -34,6 +34,16 @@
             "cls": "",
             "help": "",
             "icon": "https://mmgame.qpic.cn/image/5fb69dbda9471b96ef99e29c3b2e909e85682c0211b2806551cd747fe7507a7e/0"
+        },
+        {
+            "name": "天启之灵",
+            "py": "tqzl",
+            "appId": "wxe3cf81ae9a7ff75b",
+            "bundleId": "com.shenlian.divineInspiration",
+            "pkg": "",
+            "cls": "",
+            "help": "",
+            "icon": "http://mmbiz.qpic.cn/sz_mmbiz_png/iaqy4FT2mibfZEib40ajWmu9K7EGRWpG1B4NufE43gTk0tOeuqv4F0fKczichXICtGm5Unk9SCcIac57thXw3ibRjIg/0"
         }
     ]
 }
