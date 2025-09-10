@@ -1,1 +1,39 @@
-# gameList
+{
+    "version": 9,
+    "helpList": [
+        "1.打开要登录的应用，注销当前登录。\n2.登录页如有用户协议等，勾选后游戏切换后台\n3.切换到扫码APP，出现二维码后点击分享给对方\n4.在扫码APP内等待对方扫码授权就可以自动跳转并登录应用。\n5.如果跳转后没有自动登录，请杀掉游戏进程，重新打开应用查看。\n6.如果还是没登录，请仔细检查步骤，步骤没错，那就是工具失效了。",
+        "1.打开应用，注销当前登录，勾选协议后点击微信登录\n2.跳转到微信后，打开或切换到扫码APP，出现二维码后点击分享给对方。\n3.在扫码APP内等待对方扫码授权，成功授权后会自动跳转。"
+    ],
+    "game": [
+        {
+            "name": "王者荣耀",
+            "py": "wzry",
+            "appId": "wx95a3a4d7c627e07d",
+            "bundleId": "com.tencent.tmgp.sgame",
+            "pkg": "",
+            "cls": "",
+            "help": "",
+            "icon": "https://mmocgame.qpic.cn/wechatgame/duc2TvpEgSR53WIVgEfYglMDO8O4iaficqga0EgQichficmUAp9Ydzb0nOggezEttDMJ/0"
+        },
+        {
+            "name": "英雄联盟手游",
+            "py": "yxlm",
+            "appId": "wx5a611599efa17e78",
+            "bundleId": "com.tencent.lolm",
+            "pkg": "",
+            "cls": "",
+            "help": "1.打开游戏，注销当前登录，杀掉游戏进程\n2.切换到扫码APP，出现二维码后点击分享给对方。\n3.在扫码APP内等待对方扫码授权，成功授权后会自动跳转。\n4.成功跳转后，等待游戏加载到登录页面，稍等片刻再次杀掉游戏进程，重新打开游戏即可自动登录。\n5.如果还是没登录，请仔细检查步骤，步骤没错，那就是工具失效了。\"",
+            "icon": "https://mmgame.qpic.cn/image/6e93dc89652cee2cd0137c17eed36afdced759af791cd4ce89169d3bfd3fe938/0"
+        },
+        {
+            "name": "QQ飞车手游",
+            "py": "qqfc",
+            "appId": "wx360b06d575d20cc3",
+            "bundleId": "com.tencent.tmgp.speedmobile",
+            "pkg": "",
+            "cls": "",
+            "help": "",
+            "icon": "https://mmgame.qpic.cn/image/5fb69dbda9471b96ef99e29c3b2e909e85682c0211b2806551cd747fe7507a7e/0"
+        }
+    ]
+}
