@@ -44,6 +44,16 @@
             "cls": "",
             "help": "",
             "icon": "http://mmbiz.qpic.cn/sz_mmbiz_png/iaqy4FT2mibfZEib40ajWmu9K7EGRWpG1B4NufE43gTk0tOeuqv4F0fKczichXICtGm5Unk9SCcIac57thXw3ibRjIg/0"
+        },
+        {
+            "name": "最强矿工",
+            "py": "zqkg",
+            "appId": "wx0c71fba1cbd5ced0",
+            "bundleId": "com.yijiaren",
+            "pkg": "",
+            "cls": "",
+            "help": "",
+            "icon": "http://mmbiz.qpic.cn/mmbiz_png/ian17oxH2IbV0XhrAiaJ7ovpr07EK1KergOHM8LCaSFCLN0TicJ2TTlFIXeBdGic2lKrjU6nhPiatoiczB6mAmricA3vg/0?wx_fmt=png"
         }
     ]
 }
